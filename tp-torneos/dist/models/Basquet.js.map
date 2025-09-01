@@ -1,0 +1,1 @@
+{"version":3,"file":"Basquet.js","sourceRoot":"","sources":["../../src/models/Basquet.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,cAAc,CAAC;AAGnC,MAAM,CAAC,OAAO,OAAO,OAAQ,SAAQ,OAAO;IAC1C;QACE,KAAK,CAAC,SAAS,EAAE,CAAC,CAAC,CAAC;IACtB,CAAC;IAED,OAAO,CAAC,MAAc;QACpB,OAAO,MAAM,CAAC,QAAQ,KAAK,IAAI,CAAC,YAAY,CAAC;IAC/C,CAAC;CACF"}
